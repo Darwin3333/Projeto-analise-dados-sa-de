@@ -1,0 +1,45 @@
+Secretaria de Atenção Primária à Saúde - SAPS/MS 
+Dados sujeitos à alteração 
+---Descrição dos Filtros Utilizados---
+"Competência: DEZ/2019, NOV/2019, OUT/2019, SET/2019, AGO/2019, JUL/2019, JUN/2019, MAI/2019, ABR/2019, MAR/2019, FEV/2019, JAN/2019."
+"Estado: AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP, TO."
+Tipo de Produção: Atendimento Individual.
+"Tipo de Equipe: Eq. de Saúde da Família  - ESF, Eq. Ag. Com. de Saúde - EACS, NASF/eMulti, Eq. da Atenção Básica - EAB, Eq. Consultório na Rua - ECR, Eq. de Saúde Bucal - SB, Eq. AB Prisional - EABp, Eq. de Atenção Primária - eAP."
+"Categoria Profissional: Agente comunitário de saúde, Agente de combate a endemias, Agente de saúde, Assistente Social, Cirurgião dentista, Educador social, Enfermeiro, Farmacêutico, Fisioterapeuta, Fonoaudiólogo, Médico, Médico veterinário, Nutricionista, Outros prof. de nível médio, Outros prof. de nível superior, Profissional de educação física, Psicólogo, Sanitarista, Técnico e auxiliar de enfermagem, Técnico e auxiliar de saúde bucal, Terapeuta ocupacional, Naturólogo, Musicoterapeuta, Arteterapeuta, Recepcionista, Terapeuto Holístico."
+"Local de Atendimento: 01 - Ubs, 02 - Unidade móvel, 03 - Rua, 04 - Domicílio, 05 - Escola/creche, 06 - Outros, 07 - Polo (academia da saúde), 08 - Instituição/abrigo, 09 - Unidade prisional ou congêneres, 10 - Unidade socioeducativa."
+"Tipo de Atendimento: Consulta agendada, Dem. esp. consulta no dia, Dem. esp. atendimento urgência."
+Probl/ Condição Avaliada: Saúde mental.
+
+
+Estado;Consulta agendada;Dem. esp. consulta no dia;Dem. esp. atendimento urgência;
+ALAGOAS;141.810;85.903;6.620;
+SANTA CATARINA;303.485;403.709;20.594;
+GOIAS;176.811;145.218;2.290;
+SAO PAULO;762.112;582.404;14.637;
+MINAS GERAIS;899.044;717.050;21.597;
+PARAIBA;184.125;261.761;4.820;
+RONDONIA;46.500;30.923;257;
+CEARA;309.126;344.032;6.728;
+DISTRITO FEDERAL;24.186;39.638;1.244;
+RIO DE JANEIRO;229.210;390.216;4.704;
+AMAZONAS;42.311;25.579;613;
+ACRE;10.982;10.432;94;
+RIO GRANDE DO NORTE;146.277;128.452;4.748;
+MARANHAO;100.039;51.747;976;
+MATO GROSSO;68.446;109.724;2.420;
+PIAUI;95.936;79.233;2.050;
+ESPIRITO SANTO;150.325;60.365;1.836;
+PARANA;171.690;221.052;4.809;
+PERNAMBUCO;421.689;312.468;8.973;
+BAHIA;297.383;148.420;9.235;
+SERGIPE;73.214;50.002;1.844;
+PARA;93.594;46.005;1.767;
+TOCANTINS;46.578;38.001;674;
+RORAIMA;2.446;3.747;47;
+AMAPA;6.197;1.722;73;
+RIO GRANDE DO SUL;232.564;323.815;4.058;
+MATO GROSSO DO SUL;55.297;95.597;1.042;
+
+
+Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;
+Dado gerado em: 19 de Abril de 2025 - 16:27h

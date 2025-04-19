@@ -1,0 +1,35 @@
+Secretaria de Atenção Primária à Saúde - SAPS/MS 
+Dados sujeitos à alteração 
+---Descrição dos Filtros Utilizados---
+"Competência: DEZ/2013, NOV/2013, OUT/2013, SET/2013, AGO/2013, JUL/2013, JUN/2013, MAI/2013, ABR/2013."
+"Estado: AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP, TO."
+Tipo de Produção: Atendimento Individual.
+"Tipo de Equipe: Eq. de Saúde da Família  - ESF, Eq. Ag. Com. de Saúde - EACS, NASF/eMulti, Eq. da Atenção Básica - EAB, Eq. Consultório na Rua - ECR, Eq. de Saúde Bucal - SB, Eq. AB Prisional - EABp, Eq. de Atenção Primária - eAP."
+"Categoria Profissional: Agente comunitário de saúde, Agente de combate a endemias, Agente de saúde, Assistente Social, Cirurgião dentista, Educador social, Enfermeiro, Farmacêutico, Fisioterapeuta, Fonoaudiólogo, Médico, Médico veterinário, Nutricionista, Outros prof. de nível médio, Outros prof. de nível superior, Profissional de educação física, Psicólogo, Sanitarista, Técnico e auxiliar de enfermagem, Técnico e auxiliar de saúde bucal, Terapeuta ocupacional, Naturólogo, Musicoterapeuta, Arteterapeuta, Recepcionista, Terapeuto Holístico."
+"Local de Atendimento: 01 - Ubs, 02 - Unidade móvel, 03 - Rua, 04 - Domicílio, 05 - Escola/creche, 06 - Outros, 07 - Polo (academia da saúde), 08 - Instituição/abrigo, 09 - Unidade prisional ou congêneres, 10 - Unidade socioeducativa."
+"Tipo de Atendimento: Consulta agendada, Dem. esp. consulta no dia, Dem. esp. atendimento urgência."
+Probl/ Condição Avaliada: Saúde mental.
+
+
+Estado;Consulta agendada;Dem. esp. consulta no dia;Dem. esp. atendimento urgência;
+MINAS GERAIS;400;509;10;
+PARAIBA;1.132;1.683;6;
+CEARA;19;2;0;
+RIO DE JANEIRO;6;0;0;
+PARANA;18;1;0;
+PERNAMBUCO;109;46;0;
+BAHIA;268;222;25;
+PARA;0;1;0;
+SANTA CATARINA;152;335;2;
+GOIAS;159;184;3;
+SAO PAULO;486;109;20;
+RIO GRANDE DO NORTE;1.249;801;28;
+MARANHAO;15;77;0;
+PIAUI;18;7;0;
+ESPIRITO SANTO;52;0;0;
+AMAPA;170;25;0;
+TOCANTINS;0;1;0;
+
+
+Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;
+Dado gerado em: 19 de Abril de 2025 - 16:06h

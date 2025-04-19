@@ -1,0 +1,44 @@
+Secretaria de Atenção Primária à Saúde - SAPS/MS 
+Dados sujeitos à alteração 
+---Descrição dos Filtros Utilizados---
+"Competência: DEZ/2015, NOV/2015, OUT/2015, SET/2015, AGO/2015, JUL/2015, JUN/2015, MAI/2015, ABR/2015, MAR/2015, FEV/2015, JAN/2015."
+"Estado: AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS, MT, PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP, TO."
+Tipo de Produção: Atendimento Individual.
+"Tipo de Equipe: Eq. de Saúde da Família  - ESF, Eq. Ag. Com. de Saúde - EACS, NASF/eMulti, Eq. da Atenção Básica - EAB, Eq. Consultório na Rua - ECR, Eq. de Saúde Bucal - SB, Eq. AB Prisional - EABp, Eq. de Atenção Primária - eAP."
+"Categoria Profissional: Agente comunitário de saúde, Agente de combate a endemias, Agente de saúde, Assistente Social, Cirurgião dentista, Educador social, Enfermeiro, Farmacêutico, Fisioterapeuta, Fonoaudiólogo, Médico, Médico veterinário, Nutricionista, Outros prof. de nível médio, Outros prof. de nível superior, Profissional de educação física, Psicólogo, Sanitarista, Técnico e auxiliar de enfermagem, Técnico e auxiliar de saúde bucal, Terapeuta ocupacional, Naturólogo, Musicoterapeuta, Arteterapeuta, Recepcionista, Terapeuto Holístico."
+"Local de Atendimento: 01 - Ubs, 02 - Unidade móvel, 03 - Rua, 04 - Domicílio, 05 - Escola/creche, 06 - Outros, 07 - Polo (academia da saúde), 08 - Instituição/abrigo, 09 - Unidade prisional ou congêneres, 10 - Unidade socioeducativa."
+"Tipo de Atendimento: Consulta agendada, Dem. esp. consulta no dia, Dem. esp. atendimento urgência."
+Probl/ Condição Avaliada: Saúde mental.
+
+
+Estado;Consulta agendada;Dem. esp. consulta no dia;Dem. esp. atendimento urgência;
+ALAGOAS;22.663;8.698;1.029;
+SANTA CATARINA;71.764;64.650;1.781;
+GOIAS;40.566;45.357;1.001;
+SAO PAULO;135.187;80.653;5.573;
+MARANHAO;25.293;11.511;297;
+MATO GROSSO;7.571;10.921;179;
+PIAUI;22.983;20.037;527;
+ESPIRITO SANTO;45.072;16.801;929;
+AMAZONAS;8.557;4.221;112;
+RIO DE JANEIRO;39.958;75.921;1.388;
+ACRE;2.036;2.595;32;
+RIO GRANDE DO NORTE;53.289;36.990;1.685;
+TOCANTINS;12.023;10.314;332;
+AMAPA;1.474;554;18;
+RORAIMA;157;780;5;
+RIO GRANDE DO SUL;95.349;166.614;2.731;
+MATO GROSSO DO SUL;16.439;19.085;255;
+MINAS GERAIS;201.718;102.827;4.450;
+PARAIBA;97.729;128.973;1.819;
+RONDONIA;9.526;8.812;58;
+CEARA;52.699;90.636;1.353;
+PARANA;58.581;78.337;748;
+PERNAMBUCO;67.274;48.690;1.639;
+BAHIA;64.976;32.900;1.765;
+SERGIPE;25.094;12.788;841;
+PARA;20.191;10.971;365;
+
+
+Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;
+Dado gerado em: 19 de Abril de 2025 - 16:12h

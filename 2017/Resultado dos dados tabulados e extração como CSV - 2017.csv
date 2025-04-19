@@ -1,0 +1,20 @@
+ Morbidade Hospitalar do SUS - por local de internação - Brasil
+Internações por Lista Morb  CID-10 e Unidade da Federação
+Lista Morb  CID-10: Demência, Transt mentais e comportamentais dev uso de álcool, Transt mentais comport dev uso outr subst psicoat, Esquizofrenia transt esquizotípicos e delirantes, Transtornos de humor [afetivos], Transt neurót e relacionados com stress e somatof, Retardo mental, Outros transtornos mentais e comportamentais
+Período:2017
+"Lista Morb  CID-10";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
+"05 Transtornos mentais e comportamentais";1046;1319;649;355;3065;87;957;4424;2800;7402;2495;4647;5575;3573;1641;4245;14030;1569;11389;54217;22177;14066;37556;1822;1969;9403;4223;216701
+".. Demência";7;2;6;-;14;1;4;3;27;62;7;8;58;33;5;72;404;9;568;791;67;143;415;49;7;41;91;2894
+".. Transt mentais e comportamentais dev uso álcool";33;104;30;23;64;2;118;701;312;636;187;597;1605;556;202;1094;3076;311;735;7117;5099;3552;7166;263;339;1643;829;36394
+".. Transt ment comport dev uso outr subst psicoat";86;303;79;22;244;8;244;603;527;1607;210;639;661;487;289;269;1892;358;770;10026;5285;2615;10450;357;437;1408;308;40184
+".. Esquizofrenia transt esquizotípicos e delirant";520;487;313;167;1999;50;349;1999;1097;3473;1365;2199;1766;1735;791;1560;4392;440;6165;18538;5704;2718;5782;454;762;2608;1483;68916
+".. Transtornos de humor [afetivos]";266;361;188;48;566;20;175;922;613;1116;636;812;784;374;244;932;2225;302;2123;10805;4213;4093;11506;470;289;3144;987;48214
+".. Transt neurót e relacionados com stress somatof";24;7;5;-;7;4;5;62;44;44;24;50;57;21;10;42;231;28;122;716;182;162;274;27;13;89;109;2359
+".. Retardo mental";16;35;5;15;32;-;9;100;28;241;21;165;114;135;49;58;385;17;286;1992;327;113;494;22;16;45;102;4822
+".. Outros transtornos mentais e comportamentais";94;20;23;80;139;2;53;34;152;223;45;177;530;232;51;218;1425;104;620;4232;1300;670;1469;180;106;425;314;12918
+"Total";1046;1319;649;355;3065;87;957;4424;2800;7402;2495;4647;5575;3573;1641;4245;14030;1569;11389;54217;22177;14066;37556;1822;1969;9403;4223;216701
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 
