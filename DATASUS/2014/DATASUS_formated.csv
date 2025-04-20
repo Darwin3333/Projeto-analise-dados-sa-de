@@ -1,0 +1,217 @@
+fonte;origem;ano;morbidade;estado;sigla_estado;casos
+datasus;internações;2014;Demência;Rondônia;RO;7
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Rondônia;RO;50
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Rondônia;RO;90
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Rondônia;RO;436
+datasus;internações;2014;Transtornos de humor [afetivos];Rondônia;RO;122
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Rondônia;RO;12
+datasus;internações;2014;Retardo mental;Rondônia;RO;13
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Rondônia;RO;37
+datasus;internações;2014;Demência;Acre;AC;2
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Acre;AC;267
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Acre;AC;763
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Acre;AC;428
+datasus;internações;2014;Transtornos de humor [afetivos];Acre;AC;331
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Acre;AC;9
+datasus;internações;2014;Retardo mental;Acre;AC;48
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Acre;AC;72
+datasus;internações;2014;Demência;Amazonas;AM;2
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Amazonas;AM;35
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Amazonas;AM;82
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Amazonas;AM;348
+datasus;internações;2014;Transtornos de humor [afetivos];Amazonas;AM;191
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Amazonas;AM;1
+datasus;internações;2014;Retardo mental;Amazonas;AM;5
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Amazonas;AM;16
+datasus;internações;2014;Demência;Roraima;RR;-
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Roraima;RR;12
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Roraima;RR;17
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Roraima;RR;55
+datasus;internações;2014;Transtornos de humor [afetivos];Roraima;RR;47
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Roraima;RR;1
+datasus;internações;2014;Retardo mental;Roraima;RR;6
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Roraima;RR;32
+datasus;internações;2014;Demência;Pará;PA;9
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Pará;PA;75
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Pará;PA;126
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Pará;PA;2095
+datasus;internações;2014;Transtornos de humor [afetivos];Pará;PA;383
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Pará;PA;4
+datasus;internações;2014;Retardo mental;Pará;PA;113
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Pará;PA;61
+datasus;internações;2014;Demência;Amapá;AP;-
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Amapá;AP;4
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Amapá;AP;-
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Amapá;AP;38
+datasus;internações;2014;Transtornos de humor [afetivos];Amapá;AP;10
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Amapá;AP;11
+datasus;internações;2014;Retardo mental;Amapá;AP;2
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Amapá;AP;7
+datasus;internações;2014;Demência;Tocantins;TO;13
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Tocantins;TO;204
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Tocantins;TO;390
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Tocantins;TO;217
+datasus;internações;2014;Transtornos de humor [afetivos];Tocantins;TO;255
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Tocantins;TO;5
+datasus;internações;2014;Retardo mental;Tocantins;TO;23
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Tocantins;TO;56
+datasus;internações;2014;Demência;Maranhão;MA;1
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Maranhão;MA;657
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Maranhão;MA;695
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Maranhão;MA;1864
+datasus;internações;2014;Transtornos de humor [afetivos];Maranhão;MA;801
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Maranhão;MA;68
+datasus;internações;2014;Retardo mental;Maranhão;MA;87
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Maranhão;MA;58
+datasus;internações;2014;Demência;Piauí;PI;23
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Piauí;PI;296
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Piauí;PI;437
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Piauí;PI;1250
+datasus;internações;2014;Transtornos de humor [afetivos];Piauí;PI;663
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Piauí;PI;21
+datasus;internações;2014;Retardo mental;Piauí;PI;36
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Piauí;PI;88
+datasus;internações;2014;Demência;Ceará;CE;18
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Ceará;CE;1127
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Ceará;CE;1436
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Ceará;CE;5382
+datasus;internações;2014;Transtornos de humor [afetivos];Ceará;CE;1075
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Ceará;CE;36
+datasus;internações;2014;Retardo mental;Ceará;CE;181
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Ceará;CE;181
+datasus;internações;2014;Demência;Rio Grande do Norte;RN;6
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Rio Grande do Norte;RN;494
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Rio Grande do Norte;RN;424
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Rio Grande do Norte;RN;1746
+datasus;internações;2014;Transtornos de humor [afetivos];Rio Grande do Norte;RN;641
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Rio Grande do Norte;RN;18
+datasus;internações;2014;Retardo mental;Rio Grande do Norte;RN;48
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Rio Grande do Norte;RN;62
+datasus;internações;2014;Demência;Paraíba;PB;242
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Paraíba;PB;622
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Paraíba;PB;600
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Paraíba;PB;2574
+datasus;internações;2014;Transtornos de humor [afetivos];Paraíba;PB;567
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Paraíba;PB;23
+datasus;internações;2014;Retardo mental;Paraíba;PB;171
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Paraíba;PB;134
+datasus;internações;2014;Demência;Pernambuco;PE;51
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Pernambuco;PE;1879
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Pernambuco;PE;488
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Pernambuco;PE;2624
+datasus;internações;2014;Transtornos de humor [afetivos];Pernambuco;PE;716
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Pernambuco;PE;40
+datasus;internações;2014;Retardo mental;Pernambuco;PE;328
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Pernambuco;PE;630
+datasus;internações;2014;Demência;Alagoas;AL;10
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Alagoas;AL;880
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Alagoas;AL;486
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Alagoas;AL;2805
+datasus;internações;2014;Transtornos de humor [afetivos];Alagoas;AL;446
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Alagoas;AL;27
+datasus;internações;2014;Retardo mental;Alagoas;AL;149
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Alagoas;AL;134
+datasus;internações;2014;Demência;Sergipe;SE;2
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Sergipe;SE;241
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Sergipe;SE;496
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Sergipe;SE;884
+datasus;internações;2014;Transtornos de humor [afetivos];Sergipe;SE;341
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Sergipe;SE;9
+datasus;internações;2014;Retardo mental;Sergipe;SE;36
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Sergipe;SE;197
+datasus;internações;2014;Demência;Bahia;BA;73
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Bahia;BA;1259
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Bahia;BA;432
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Bahia;BA;2526
+datasus;internações;2014;Transtornos de humor [afetivos];Bahia;BA;987
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Bahia;BA;38
+datasus;internações;2014;Retardo mental;Bahia;BA;92
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Bahia;BA;294
+datasus;internações;2014;Demência;Minas Gerais;MG;162
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Minas Gerais;MG;4319
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Minas Gerais;MG;2885
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Minas Gerais;MG;5726
+datasus;internações;2014;Transtornos de humor [afetivos];Minas Gerais;MG;2196
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Minas Gerais;MG;263
+datasus;internações;2014;Retardo mental;Minas Gerais;MG;523
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Minas Gerais;MG;1678
+datasus;internações;2014;Demência;Espírito Santo;ES;8
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Espírito Santo;ES;540
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Espírito Santo;ES;444
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Espírito Santo;ES;1043
+datasus;internações;2014;Transtornos de humor [afetivos];Espírito Santo;ES;383
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Espírito Santo;ES;99
+datasus;internações;2014;Retardo mental;Espírito Santo;ES;52
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Espírito Santo;ES;540
+datasus;internações;2014;Demência;Rio de Janeiro;RJ;809
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Rio de Janeiro;RJ;802
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Rio de Janeiro;RJ;846
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Rio de Janeiro;RJ;6653
+datasus;internações;2014;Transtornos de humor [afetivos];Rio de Janeiro;RJ;2084
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Rio de Janeiro;RJ;82
+datasus;internações;2014;Retardo mental;Rio de Janeiro;RJ;442
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Rio de Janeiro;RJ;979
+datasus;internações;2014;Demência;São Paulo;SP;686
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;São Paulo;SP;11253
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;São Paulo;SP;12863
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;São Paulo;SP;21561
+datasus;internações;2014;Transtornos de humor [afetivos];São Paulo;SP;11072
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";São Paulo;SP;650
+datasus;internações;2014;Retardo mental;São Paulo;SP;1953
+datasus;internações;2014;Outros transtornos mentais e comportamentais;São Paulo;SP;5696
+datasus;internações;2014;Demência;Paraná;PR;82
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Paraná;PR;5266
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Paraná;PR;4440
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Paraná;PR;5865
+datasus;internações;2014;Transtornos de humor [afetivos];Paraná;PR;4414
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Paraná;PR;131
+datasus;internações;2014;Retardo mental;Paraná;PR;263
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Paraná;PR;1438
+datasus;internações;2014;Demência;Santa Catarina;SC;122
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Santa Catarina;SC;3797
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Santa Catarina;SC;2130
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Santa Catarina;SC;2577
+datasus;internações;2014;Transtornos de humor [afetivos];Santa Catarina;SC;3278
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Santa Catarina;SC;118
+datasus;internações;2014;Retardo mental;Santa Catarina;SC;115
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Santa Catarina;SC;772
+datasus;internações;2014;Demência;Rio Grande do Sul;RS;442
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Rio Grande do Sul;RS;8453
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Rio Grande do Sul;RS;10865
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Rio Grande do Sul;RS;5888
+datasus;internações;2014;Transtornos de humor [afetivos];Rio Grande do Sul;RS;10142
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Rio Grande do Sul;RS;333
+datasus;internações;2014;Retardo mental;Rio Grande do Sul;RS;386
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Rio Grande do Sul;RS;1645
+datasus;internações;2014;Demência;Mato Grosso do Sul;MS;25
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Mato Grosso do Sul;MS;493
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Mato Grosso do Sul;MS;554
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Mato Grosso do Sul;MS;759
+datasus;internações;2014;Transtornos de humor [afetivos];Mato Grosso do Sul;MS;522
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Mato Grosso do Sul;MS;15
+datasus;internações;2014;Retardo mental;Mato Grosso do Sul;MS;60
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Mato Grosso do Sul;MS;238
+datasus;internações;2014;Demência;Mato Grosso ;MT;2
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Mato Grosso ;MT;354
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Mato Grosso ;MT;555
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Mato Grosso ;MT;631
+datasus;internações;2014;Transtornos de humor [afetivos];Mato Grosso ;MT;125
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Mato Grosso ;MT;2
+datasus;internações;2014;Retardo mental;Mato Grosso ;MT;22
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Mato Grosso ;MT;20
+datasus;internações;2014;Demência;Goiás;GO;30
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Goiás;GO;2217
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Goiás;GO;1689
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Goiás;GO;3166
+datasus;internações;2014;Transtornos de humor [afetivos];Goiás;GO;3343
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Goiás;GO;86
+datasus;internações;2014;Retardo mental;Goiás;GO;169
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Goiás;GO;616
+datasus;internações;2014;Demência;Distrito Federal;DF;3
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de álcool;Distrito Federal;DF;479
+datasus;internações;2014;Transtornos mentais e comportamentais devidos ao uso de outras substâncias psicoativas;Distrito Federal;DF;193
+datasus;internações;2014;Esquizofrenia, transtornos esquizotípicos e delirantes;Distrito Federal;DF;2124
+datasus;internações;2014;Transtornos de humor [afetivos];Distrito Federal;DF;744
+datasus;internações;2014;"Transtornos neuróticos e relacionados com ""stress"" e transtornos somatoformes";Distrito Federal;DF;76
+datasus;internações;2014;Retardo mental;Distrito Federal;DF;40
+datasus;internações;2014;Outros transtornos mentais e comportamentais;Distrito Federal;DF;99
