@@ -1,44 +1,44 @@
-Secretaria de Atenção Primária à Saúde - SAPS/MS 
-Dados sujeitos à alteração 
----Descrição dos Filtros Utilizados---
-"Competência: DEZ/2022, NOV/2022, OUT/2022, SET/2022, AGO/2022, JUL/2022, JUN/2022, MAI/2022, ABR/2022, MAR/2022, FEV/2022, JAN/2022."
-Tipo de Produção: Atendimento Individual.
-"Tipo de Equipe: Eq. de Saúde da Família  - ESF, Eq. Ag. Com. de Saúde - EACS, NASF/eMulti, Eq. da Atenção Básica - EAB, Eq. Consultório na Rua - ECR, Eq. de Saúde Bucal - SB, Eq. AB Prisional - EABp, Eq. de Atenção Primária - eAP."
-"Categoria Profissional: Agente comunitário de saúde, Agente de combate a endemias, Agente de saúde, Assistente Social, Cirurgião dentista, Educador social, Enfermeiro, Farmacêutico, Fisioterapeuta, Fonoaudiólogo, Médico, Médico veterinário, Nutricionista, Outros prof. de nível médio, Outros prof. de nível superior, Profissional de educação física, Psicólogo, Sanitarista, Técnico e auxiliar de enfermagem, Técnico e auxiliar de saúde bucal, Terapeuta ocupacional, Naturólogo, Musicoterapeuta, Arteterapeuta, Recepcionista, Terapeuto Holístico."
-"Local de Atendimento: 01 - Ubs, 02 - Unidade móvel, 03 - Rua, 04 - Domicílio, 05 - Escola/creche, 06 - Outros, 07 - Polo (academia da saúde), 08 - Instituição/abrigo, 09 - Unidade prisional ou congêneres, 10 - Unidade socioeducativa."
-"Tipo de Atendimento: Consulta agendada, Dem. esp. consulta no dia, Dem. esp. atendimento urgência."
-Probl/ Condição Avaliada: Saúde mental.
-
-
-Estado;Consulta agendada;Dem. esp. consulta no dia;Dem. esp. atendimento urgência;
-MARANHAO;90.806;81.076;804;
-MATO GROSSO;54.401;163.522;1.749;
-PIAUI;58.672;110.959;574;
-ESPIRITO SANTO;160.833;94.235;1.244;
-ALAGOAS;95.336;101.974;2.964;
-SANTA CATARINA;261.687;650.888;22.504;
-GOIAS;146.063;248.331;1.542;
-SAO PAULO;1.087.769;1.077.468;11.628;
-MINAS GERAIS;759.943;920.645;14.557;
-PARAIBA;81.767;298.427;1.531;
-RONDONIA;41.676;33.665;225;
-CEARA;295.472;520.947;4.318;
-DISTRITO FEDERAL;42.611;58.109;1.843;
-RIO DE JANEIRO;238.630;528.677;5.232;
-AMAZONAS;42.832;50.485;382;
-ACRE;13.029;20.486;68;
-RIO GRANDE DO NORTE;105.273;211.410;1.964;
-TOCANTINS;41.158;60.020;448;
-RORAIMA;1.894;5.466;17;
-AMAPA;5.559;2.918;45;
-RIO GRANDE DO SUL;244.926;554.049;2.698;
-MATO GROSSO DO SUL;41.695;106.160;1.234;
-PARANA;276.731;527.519;5.017;
-PERNAMBUCO;279.638;389.735;5.614;
-BAHIA;256.845;267.380;5.806;
-SERGIPE;75.913;90.824;2.895;
-PARA;96.169;80.121;1.301;
-
-
-Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;
-Dado gerado em: 19 de Abril de 2025 - 16:51h
+Secretaria de Atenção Primária à Saúde - SAPS/MS ;;;;;;;
+Dados sujeitos à alteração ;;;;;;;
+---Descrição dos Filtros Utilizados---;;;;;;;
+Competência: DEZ/2022, NOV/2022, OUT/2022, SET/2022, AGO/2022, JUL/2022, JUN/2022, MAI/2022, ABR/2022, MAR/2022, FEV/2022, JAN/2022.;;;;;;;
+Tipo de Produção: Atendimento Individual.;;;;;;;
+Tipo de Equipe: Eq. de Saúde da Família  - ESF, Eq. Ag. Com. de Saúde - EACS, NASF/eMulti, Eq. da Atenção Básica - EAB, Eq. Consultório na Rua - ECR, Eq. de Saúde Bucal - SB, Eq. AB Prisional - EABp, Eq. de Atenção Primária - eAP.;;;;;;;
+Categoria Profissional: Agente comunitário de saúde, Agente de combate a endemias, Agente de saúde, Assistente Social, Cirurgião dentista, Educador social, Enfermeiro, Farmacêutico, Fisioterapeuta, Fonoaudiólogo, Médico, Médico veterinário, Nutricionista, Outros prof. de nível médio, Outros prof. de nível superior, Profissional de educação física, Psicólogo, Sanitarista, Técnico e auxiliar de enfermagem, Técnico e auxiliar de saúde bucal, Terapeuta ocupacional, Naturólogo, Musicoterapeuta, Arteterapeuta, Recepcionista, Terapeuto Holístico.;;;;;;;
+Local de Atendimento: 01 - Ubs, 02 - Unidade móvel, 03 - Rua, 04 - Domicílio, 05 - Escola/creche, 06 - Outros, 07 - Polo (academia da saúde), 08 - Instituição/abrigo, 09 - Unidade prisional ou congêneres, 10 - Unidade socioeducativa.;;;;;;;
+Tipo de Atendimento: Consulta agendada, Dem. esp. consulta no dia, Dem. esp. atendimento urgência.;;;;;;;
+Probl/ Condição Avaliada: Saúde mental.;;;;;;;
+;;;;;;;
+;;;;;;;
+Estado;Consulta agendada;Dem. esp. consulta no dia;Dem. esp. atendimento urgência;;;;
+MARANHAO;90.806;81.076;804;;;;
+MATO GROSSO;54.401;163.522;1.749;;;;
+PIAUI;58.672;110.959;574;;;;
+ESPIRITO SANTO;160.833;94.235;1.244;;;;
+ALAGOAS;95.336;101.974;2.964;;;;
+SANTA CATARINA;261.687;650.888;22.504;;;;
+GOIAS;146.063;248.331;1.542;;;;
+SAO PAULO;1.087.769;1.077.468;11.628;;;;
+MINAS GERAIS;759.943;920.645;14.557;;;;
+PARAIBA;81.767;298.427;1.531;;;;
+RONDONIA;41.676;33.665;225;;;;
+CEARA;295.472;520.947;4.318;;;;
+DISTRITO FEDERAL;42.611;58.109;1.843;;;;
+RIO DE JANEIRO;238.630;528.677;5.232;;;;
+AMAZONAS;42.832;50.485;382;;;;
+ACRE;13.029;20.486;68;;;;
+RIO GRANDE DO NORTE;105.273;211.410;1.964;;;;
+TOCANTINS;41.158;60.020;448;;;;
+RORAIMA;1.894;5.466;17;;;;
+AMAPA;5.559;2.918;45;;;;
+RIO GRANDE DO SUL;244.926;554.049;2.698;;;;
+MATO GROSSO DO SUL;41.695;106.160;1.234;;;;
+PARANA;276.731;527.519;5.017;;;;
+PERNAMBUCO;279.638;389.735;5.614;;;;
+BAHIA;256.845;267.380;5.806;;;;
+SERGIPE;75.913;90.824;2.895;;;;
+PARA;96.169;80.121;1.301;;;;
+;;;;;;;
+;;;;;;;
+Fonte: Sistema de Informação em Saúde para a Atenção Básica - SISAB;;;;;;;
+Dado gerado em: 19 de Abril de 2025 - 16:51h;;;;;;;
