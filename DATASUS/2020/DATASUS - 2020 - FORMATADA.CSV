@@ -1,0 +1,220 @@
+fonte;origem;;;;;
+;;;;;;
+;;;;;;
+fonte;origem;ano;morbidade;estado;sigla;casos
+datasus;internações;2020;Demência;Rondônia;RO;-
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Rondônia;RO;47
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Rondônia;RO;122
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Rondônia;RO;618
+datasus;internações;2020;Transtornos de humor [afetivos];Rondônia;RO;513
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Rondônia;RO;21
+datasus;internações;2020;Retardo mental;Rondônia;RO;20
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Rondônia;RO;151
+datasus;internações;2020;Demência;Acre;AC;1
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Acre;AC;58
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Acre;AC;95
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Acre;AC;427
+datasus;internações;2020;Transtornos de humor [afetivos];Acre;AC;367
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Acre;AC;9
+datasus;internações;2020;Retardo mental;Acre;AC;30
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Acre;AC;114
+datasus;internações;2020;Demência;Amazonas;AM;5
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Amazonas;AM;15
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Amazonas;AM;25
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Amazonas;AM;55
+datasus;internações;2020;Transtornos de humor [afetivos];Amazonas;AM;45
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Amazonas;AM;9
+datasus;internações;2020;Retardo mental;Amazonas;AM;-
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Amazonas;AM;29
+datasus;internações;2020;Demência;Roraima;RR;2
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Roraima;RR;7
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Roraima;RR;13
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Roraima;RR;109
+datasus;internações;2020;Transtornos de humor [afetivos];Roraima;RR;26
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Roraima;RR;-
+datasus;internações;2020;Retardo mental;Roraima;RR;3
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Roraima;RR;2
+datasus;internações;2020;Demência;Pará;PA;22
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Pará;PA;77
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Pará;PA;138
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Pará;PA;2039
+datasus;internações;2020;Transtornos de humor [afetivos];Pará;PA;829
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Pará;PA;11
+datasus;internações;2020;Retardo mental;Pará;PA;29
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Pará;PA;165
+datasus;internações;2020;Demência;Amapá;AP;1
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Amapá;AP;5
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Amapá;AP;14
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Amapá;AP;65
+datasus;internações;2020;Transtornos de humor [afetivos];Amapá;AP;8
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Amapá;AP;1
+datasus;internações;2020;Retardo mental;Amapá;AP;-
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Amapá;AP;4
+datasus;internações;2020;Demência;Tocantins;TO;3
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Tocantins;TO;134
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Tocantins;TO;111
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Tocantins;TO;551
+datasus;internações;2020;Transtornos de humor [afetivos];Tocantins;TO;167
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Tocantins;TO;3
+datasus;internações;2020;Retardo mental;Tocantins;TO;6
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Tocantins;TO;46
+datasus;internações;2020;Demência;Maranhão;MA;3
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Maranhão;MA;766
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Maranhão;MA;466
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Maranhão;MA;2123
+datasus;internações;2020;Transtornos de humor [afetivos];Maranhão;MA;1055
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Maranhão;MA;72
+datasus;internações;2020;Retardo mental;Maranhão;MA;164
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Maranhão;MA;92
+datasus;internações;2020;Demência;Piauí;PI;30
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Piauí;PI;290
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Piauí;PI;473
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Piauí;PI;931
+datasus;internações;2020;Transtornos de humor [afetivos];Piauí;PI;505
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Piauí;PI;47
+datasus;internações;2020;Retardo mental;Piauí;PI;32
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Piauí;PI;145
+datasus;internações;2020;Demência;Ceará;CE;54
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Ceará;CE;578
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Ceará;CE;1046
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Ceará;CE;3305
+datasus;internações;2020;Transtornos de humor [afetivos];Ceará;CE;1264
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Ceará;CE;79
+datasus;internações;2020;Retardo mental;Ceará;CE;166
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Ceará;CE;344
+datasus;internações;2020;Demência;Rio Grande do Norte;RN;4
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Rio Grande do Norte;RN;181
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Rio Grande do Norte;RN;294
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Rio Grande do Norte;RN;1572
+datasus;internações;2020;Transtornos de humor [afetivos];Rio Grande do Norte;RN;881
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Rio Grande do Norte;RN;15
+datasus;internações;2020;Retardo mental;Rio Grande do Norte;RN;53
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Rio Grande do Norte;RN;86
+datasus;internações;2020;Demência;Paraíba;PB;40
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Paraíba;PB;390
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Paraíba;PB;475
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Paraíba;PB;1429
+datasus;internações;2020;Transtornos de humor [afetivos];Paraíba;PB;609
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Paraíba;PB;13
+datasus;internações;2020;Retardo mental;Paraíba;PB;82
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Paraíba;PB;97
+datasus;internações;2020;Demência;Pernambuco;PE;49
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Pernambuco;PE;1541
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Pernambuco;PE;673
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Pernambuco;PE;1936
+datasus;internações;2020;Transtornos de humor [afetivos];Pernambuco;PE;978
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Pernambuco;PE;59
+datasus;internações;2020;Retardo mental;Pernambuco;PE;105
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Pernambuco;PE;299
+datasus;internações;2020;Demência;Alagoas;AL;4
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Alagoas;AL;506
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Alagoas;AL;386
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Alagoas;AL;1622
+datasus;internações;2020;Transtornos de humor [afetivos];Alagoas;AL;370
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Alagoas;AL;9
+datasus;internações;2020;Retardo mental;Alagoas;AL;90
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Alagoas;AL;266
+datasus;internações;2020;Demência;Sergipe;SE;2
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Sergipe;SE;51
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Sergipe;SE;97
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Sergipe;SE;497
+datasus;internações;2020;Transtornos de humor [afetivos];Sergipe;SE;202
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Sergipe;SE;10
+datasus;internações;2020;Retardo mental;Sergipe;SE;4
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Sergipe;SE;15
+datasus;internações;2020;Demência;Bahia;BA;86
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Bahia;BA;954
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Bahia;BA;383
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Bahia;BA;1772
+datasus;internações;2020;Transtornos de humor [afetivos];Bahia;BA;1031
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Bahia;BA;94
+datasus;internações;2020;Retardo mental;Bahia;BA;61
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Bahia;BA;477
+datasus;internações;2020;Demência;Minas Gerais;MG;342
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Minas Gerais;MG;3579
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Minas Gerais;MG;1650
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Minas Gerais;MG;4238
+datasus;internações;2020;Transtornos de humor [afetivos];Minas Gerais;MG;3044
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Minas Gerais;MG;262
+datasus;internações;2020;Retardo mental;Minas Gerais;MG;229
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Minas Gerais;MG;1719
+datasus;internações;2020;Demência;Espírito Santo;ES;13
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Espírito Santo;ES;430
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Espírito Santo;ES;466
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Espírito Santo;ES;1190
+datasus;internações;2020;Transtornos de humor [afetivos];Espírito Santo;ES;776
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Espírito Santo;ES;47
+datasus;internações;2020;Retardo mental;Espírito Santo;ES;35
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Espírito Santo;ES;144
+datasus;internações;2020;Demência;Rio de Janeiro;RJ;409
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Rio de Janeiro;RJ;363
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Rio de Janeiro;RJ;606
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Rio de Janeiro;RJ;4784
+datasus;internações;2020;Transtornos de humor [afetivos];Rio de Janeiro;RJ;2018
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Rio de Janeiro;RJ;59
+datasus;internações;2020;Retardo mental;Rio de Janeiro;RJ;213
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Rio de Janeiro;RJ;719
+datasus;internações;2020;Demência;São Paulo;SP;535
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;São Paulo;SP;6123
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;São Paulo;SP;9295
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;São Paulo;SP;15431
+datasus;internações;2020;Transtornos de humor [afetivos];São Paulo;SP;11399
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;São Paulo;SP;761
+datasus;internações;2020;Retardo mental;São Paulo;SP;1496
+datasus;internações;2020;Outros transtornos mentais e comportamentais;São Paulo;SP;3884
+datasus;internações;2020;Demência;Paraná;PR;64
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Paraná;PR;3379
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Paraná;PR;4447
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Paraná;PR;4887
+datasus;internações;2020;Transtornos de humor [afetivos];Paraná;PR;2799
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Paraná;PR;108
+datasus;internações;2020;Retardo mental;Paraná;PR;399
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Paraná;PR;796
+datasus;internações;2020;Demência;Santa Catarina;SC;175
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Santa Catarina;SC;1969
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Santa Catarina;SC;2194
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Santa Catarina;SC;2479
+datasus;internações;2020;Transtornos de humor [afetivos];Santa Catarina;SC;4248
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Santa Catarina;SC;121
+datasus;internações;2020;Retardo mental;Santa Catarina;SC;108
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Santa Catarina;SC;778
+datasus;internações;2020;Demência;Rio Grande do Sul;RS;351
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Rio Grande do Sul;RS;5861
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Rio Grande do Sul;RS;8944
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Rio Grande do Sul;RS;5433
+datasus;internações;2020;Transtornos de humor [afetivos];Rio Grande do Sul;RS;11487
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Rio Grande do Sul;RS;295
+datasus;internações;2020;Retardo mental;Rio Grande do Sul;RS;383
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Rio Grande do Sul;RS;1820
+datasus;internações;2020;Demência;Mato Grosso do Sul;MS;41
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Mato Grosso do Sul;MS;169
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Mato Grosso do Sul;MS;298
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Mato Grosso do Sul;MS;424
+datasus;internações;2020;Transtornos de humor [afetivos];Mato Grosso do Sul;MS;419
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Mato Grosso do Sul;MS;36
+datasus;internações;2020;Retardo mental;Mato Grosso do Sul;MS;20
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Mato Grosso do Sul;MS;111
+datasus;internações;2020;Demência;Mato Grosso;MT;11
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Mato Grosso;MT;326
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Mato Grosso;MT;298
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Mato Grosso;MT;743
+datasus;internações;2020;Transtornos de humor [afetivos];Mato Grosso;MT;410
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Mato Grosso;MT;38
+datasus;internações;2020;Retardo mental;Mato Grosso;MT;36
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Mato Grosso;MT;69
+datasus;internações;2020;Demência;Goiás;GO;24
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Goiás;GO;1079
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Goiás;GO;1081
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Goiás;GO;2399
+datasus;internações;2020;Transtornos de humor [afetivos];Goiás;GO;3269
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Goiás;GO;209
+datasus;internações;2020;Retardo mental;Goiás;GO;63
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Goiás;GO;326
+datasus;internações;2020;Demência;Distrito Federal;DF;150
+datasus;internações;2020;Transtornos mentais e comportamentais devido ao uso de álcool;Distrito Federal;DF;844
+datasus;internações;2020;Transtornos mentais comportamentais devido o uso de outras substancias psicoativas;Distrito Federal;DF;375
+datasus;internações;2020;Esquizofrenia e transtornos esquizotípicos e delirantes;Distrito Federal;DF;869
+datasus;internações;2020;Transtornos de humor [afetivos];Distrito Federal;DF;1089
+datasus;internações;2020;Transtornos neuróticos e relacionados com estresse somatoformes;Distrito Federal;DF;192
+datasus;internações;2020;Retardo mental;Distrito Federal;DF;78
+datasus;internações;2020;Outros transtornos mentais e comportamentais;Distrito Federal;DF;598
